@@ -1,2 +1,2 @@
-# BouncePower
- Brain power, except it's annoying (EPILEPSY WARNING!!)
+# EPILEPSY WARNING!!
+## DO NOT DOWNLOAD/COMPILE IF YOU HAVE EPILEPSY!!
